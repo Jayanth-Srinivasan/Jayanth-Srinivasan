@@ -1,6 +1,7 @@
 ### Hello World! 👋
 
-Here are some ideas to get you started:
+Here is the list of things you need to know about me:
+
 - 👨‍💻 I'm Jayanth Srinivasn
 - 🌏🏫- I'm from a pixel of the Blue Planet 
 - 🧠👀- I have an inexhaustible supply of ideas and creative solutions to problems.
