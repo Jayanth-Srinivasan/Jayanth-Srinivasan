@@ -1,8 +1,5 @@
 ### Hello World! 👋
 
-<!--
-**Jayanth-Srinivasan/Jayanth-Srinivasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 👨‍💻 I'm Jayanth Srinivasn
 - 🌏🏫- I'm from a pixel of the Blue Planet 
