@@ -2,7 +2,7 @@
 
 Here is the list of things you need to know about me:
 
-- 👨‍💻 I'm Jayanth Srinivasn
+- 👨‍💻 I'm Jayanth Srinivasan
 - 🌏🏫- I'm from a pixel of the Blue Planet 
 - 🧠👀- I have an inexhaustible supply of ideas and creative solutions to problems.
 - 🔭 I’m currently working on with the nerves to generate algorithms.
