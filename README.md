@@ -15,4 +15,4 @@ Here is the list of things you need to know about me:
 - ⚡ Fun fact: I'm an introvert
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth-Srinivasan)](https://github.com/Jayanth-Srinivasan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth-Srinivasan&langs_count=6)](https://github.com/Jayanth-Srinivasan/github-readme-stats)
