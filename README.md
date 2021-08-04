@@ -36,7 +36,7 @@ Here is the list of things you need to know about me:
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanth-srinivasan&show_icons=true&locale=en&layout=compact" alt="jayanth-srinivasan" /></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth-Srinivasan&langs_count=6&layout=compact)](https://github.com/Jayanth-Srinivasan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth-Srinivasan&langs_count=9&layout=compact)](https://github.com/Jayanth-Srinivasan/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayanth-srinivasan&show_icons=true&locale=en" alt="jayanth-srinivasan" /></p>
 
