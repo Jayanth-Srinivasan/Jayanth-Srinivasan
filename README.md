@@ -10,7 +10,7 @@ Here is the list of things you need to know about me:
 - 👯 I’m looking to collaborate with people who crowns the "dev" suffix
 - 🤔 I’m looking for help with everything that stops me from programming
 - 💬 Ask me about anything..
-- 📫 How to reach me: Spam your msgs @IG : j.aint._.745
+- 📫 How to reach me: Spam your msgs @IG : j.aint._.745// jayanth@codelancedevs.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an introvert
 
